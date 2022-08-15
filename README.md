@@ -10,7 +10,7 @@
 <a href="https://discordapp.com/users/433577031473561600/"><img align="middle" src="https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png" width=25px /></a>
 << Click!
 
-[![BPATHAK10's GitHub stats](https://github-readme-stats.vercel.app/api?username=BPATHAK10&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=-30,000000,14213d,14213d)](https://BPATHAK10.github.io)
+[![BPATHAK10's GitHub stats](https://github-readme-stats.vercel.app/api?username=BPATHAK10&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=-30,000000,14213d,14213d)]
 <a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPATHAK10&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&bg_color=-30,14213d,000000,000000" />
 </a>
