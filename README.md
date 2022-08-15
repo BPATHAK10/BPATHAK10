@@ -11,7 +11,7 @@
 << Click!
 
 [![BPATHAK10's GitHub stats](https://github-readme-stats.vercel.app/api?username=BPATHAK10&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&bg_color=-30,000000,14213d,14213d)](https://BPATHAK10.github.io)
-<a href="https://BPATHAK10.github.io">
+<a href="#">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPATHAK10&count_private=true&include_all_commits=true&layout=compact&theme=tokyonight&bg_color=-30,14213d,000000,000000" />
 </a>
 
