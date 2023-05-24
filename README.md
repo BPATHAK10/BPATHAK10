@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently an undergrad student from Pulchowk Campus, IOE, TU.
-- 🌱 I’m currently actively learning and interested in web development, app development, ML and DL.
+- 🔭 I’m a computer engineer from Pulchowk Campus, IOE, TU.
+- 🌱 I’m currently actively learning and interested in data engineering, web development & app development.
 - 📫 How to reach me:
  <a href="https://www.linkedin.com/in/biraj-bikram-pathak/"><img align="middle" src="https://logodix.com/logo/79650.png" width=25px /></a>
 <a href="mailto:birajpathak10@gmail.com"><img align="middle" src="https://purepng.com/public/uploads/large/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075clftr.png" width=25px /></a>
